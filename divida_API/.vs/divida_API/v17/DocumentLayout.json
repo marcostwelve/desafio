@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B056BC-0772-433C-8D17-E847DEC13E23}|API\\API.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\api\\controllers\\tiltedebtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B056BC-0772-433C-8D17-E847DEC13E23}|API\\API.csproj|solutionrelative:api\\controllers\\tiltedebtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B056BC-0772-433C-8D17-E847DEC13E23}|API\\API.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B056BC-0772-433C-8D17-E847DEC13E23}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\repository\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|solutionrelative:repository\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\repository\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|solutionrelative:repository\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D783E553-D5C4-46D7-93C2-824E22C1F6B1}|Entities\\Entities.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\entities\\models\\debttitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D783E553-D5C4-46D7-93C2-824E22C1F6B1}|Entities\\Entities.csproj|solutionrelative:entities\\models\\debttitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|c:\\users\\marquinhos\\downloads\\projetos\\csharp\\divida_api\\divida_api\\repository\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB08889A-3DF3-4C62-8A58-4661D1501426}|Repository\\Repository.csproj|solutionrelative:repository\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TilteDebtController.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\API\\Controllers\\TilteDebtController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\TilteDebtController.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\API\\Controllers\\TilteDebtController.cs",
+              "RelativeToolTip": "API\\Controllers\\TilteDebtController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:32:07.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "Repository\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Services\\IService.cs",
+              "RelativeToolTip": "Repository\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:06:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "Repository\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Services\\Service.cs",
+              "RelativeToolTip": "Repository\\Services\\Service.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwv0AAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:05:59.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:01:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DebtTitle.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Entities\\Models\\DebtTitle.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\DebtTitle.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Entities\\Models\\DebtTitle.cs",
+              "RelativeToolTip": "Entities\\Models\\DebtTitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:47:25.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Marquinhos\\Downloads\\projetos\\Csharp\\divida_api\\divida_API\\Repository\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:42:51.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

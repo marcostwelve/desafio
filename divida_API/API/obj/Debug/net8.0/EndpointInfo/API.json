@@ -1,0 +1,107 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/TitleDebt/titles/calculated": {
+      "get": {
+        "tags": [
+          "TitleDebt"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/TitleDebt/titles": {
+      "post": {
+        "tags": [
+          "TitleDebt"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DebtTitleDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DebtTitleDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DebtTitleDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DebtInstallmentDto": {
+        "type": "object",
+        "properties": {
+          "installmentNumber": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dueDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "installmentValue": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "DebtTitleDto": {
+        "type": "object",
+        "properties": {
+          "numberTitle": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "debtorName": {
+            "type": "string",
+            "nullable": true
+          },
+          "fessPercent": {
+            "type": "number",
+            "format": "double"
+          },
+          "debtorCPF": {
+            "type": "string",
+            "nullable": true
+          },
+          "finePercent": {
+            "type": "number",
+            "format": "double"
+          },
+          "installments": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DebtInstallmentDto"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

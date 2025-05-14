@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "API.Controllers.TitleDebtController",
+    "Method": "InsertDebtTitle",
+    "RelativePath": "api/TitleDebt/titles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Entities.Models.Dtos.DebtTitleDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.TitleDebtController",
+    "Method": "GetAllTitleWithCalculatedValues",
+    "RelativePath": "api/TitleDebt/titles/calculated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
